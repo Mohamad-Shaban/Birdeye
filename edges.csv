@@ -1,0 +1,11 @@
+id,source,target
+edge1,node1,node2
+edge2,node2,node3
+edge3,node2,node6
+edge4,node1,node4
+edge5,node3,node4
+edge6,node6,node4
+edge7,node5,node10
+edge8,node5,node8
+edge9,node5,node9
+edge10,node5,node7
